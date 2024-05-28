@@ -30,5 +30,5 @@ The pipeline performs the following steps:
 
 2. Run the pipeline:
     ```bash
-    python run_pipeline.py
+    python pipeline.py
     ```
