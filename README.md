@@ -22,12 +22,12 @@ The pipeline performs the following steps:
 
 ## Running the Pipeline Locally
 
-. Install the required packages listed in `requirements.txt`:
+Install the required packages listed in `requirements.txt`:
     ```bash
     pip install -r requirements.txt
     ```
 
-. Run the pipeline:
+Run the pipeline:
     ```bash
     python run_pipeline.py
     ```
